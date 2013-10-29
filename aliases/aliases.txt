@@ -1,0 +1,4 @@
+#BEGIN_PERSONAL
+Alias1:mailbox1
+Alias2:mailbox1
+Alias3:mailbox2
